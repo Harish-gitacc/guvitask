@@ -1,1 +1,5 @@
 This is text file 1
+
+I am going to make some changes of this file to show the difference.
+
+I am going to make the second change in the same file.
